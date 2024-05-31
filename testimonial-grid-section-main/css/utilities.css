@@ -1,0 +1,36 @@
+/* Text colors */
+.text-light {
+   color: var(--light-grayish-blue);
+}
+.text-dark {
+   color: var(--very-dark-grayish-blue);
+}
+
+/* Backgrounds */
+.bg-light {
+   background-color: var(--white);
+   color: var(--very-dark-grayish-blue);
+}
+
+.bg-dark-1 {
+   background-color: var(--very-dark-grayish-blue);
+   color: var(--white);
+}
+
+.bg-dark-2 {
+   background-color: var(--very-dark-blackish-blue);
+   color: var(--white);
+}
+
+.bg-other {
+   background-color: var(--moderate-violet);
+   color: var(--white);
+}
+
+/* Opacity */
+.opacity-1 {
+   opacity: 50%;
+}
+.opacity-2 {
+   opacity: 70%;
+}
